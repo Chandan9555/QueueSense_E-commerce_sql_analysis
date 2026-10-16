@@ -1,0 +1,5 @@
+warehouse_id,warehouse_name,city,capacity_orders_per_day
+WH-NORTH,North Fulfillment Center,Delhi,180
+WH-SOUTH,South Fulfillment Center,Bengaluru,160
+WH-EAST,East Fulfillment Center,Kolkata,190
+WH-WEST,West Fulfillment Center,Mumbai,175
